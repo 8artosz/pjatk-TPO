@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/httpclient-4.5.2 (2)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/java-json (2)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/owm-japis-2.5.0.5 (2)"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/http"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/commons-logging-1.2 (2)"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

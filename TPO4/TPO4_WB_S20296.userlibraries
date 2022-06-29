@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-logging-1.2" />
+  <library name="httpclient-4.5.2" />
+  <library name="java-json" />
+  <library name="org.apache.httpcomponents.httpcore_4.4.9" />
+  <library name="owm-japis-2.5.0.5" />
+</eclipse-userlibraries>
+
